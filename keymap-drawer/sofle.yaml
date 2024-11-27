@@ -78,7 +78,7 @@ layers:
   - F9
   - F10
   - F11
-  - $$mdi:backspace-reverse-outline$$
+  - F12
   - PgUp
   - END
   - $$mdi:arrow-up-bold$$
@@ -91,7 +91,7 @@ layers:
   - END
   - $$mdi:arrow-up-bold$$
   - HOME
-  - F12
+  - $$mdi:backspace-reverse-outline$$
   - PgDn
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$

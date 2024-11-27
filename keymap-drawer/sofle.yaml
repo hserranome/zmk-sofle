@@ -56,16 +56,16 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-control$$
-  - layer1
+  - SymAndNav
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-caps$$
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-caps$$
   - $$mdi:keyboard-space$$
-  - layer1
+  - SymAndNav
   - $$mdi:apple-keyboard-control$$
   - RIGHT GUI
-  layer1:
+  SymAndNav:
   - F1
   - F2
   - F3
